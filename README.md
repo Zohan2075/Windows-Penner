@@ -48,13 +48,9 @@ Key Capabilities
 Controls
 
 📌 Pin Window: Pin selected window from unpinned list
-
 📤 Unpin Window: Unpin selected window from pinned list
-
 🛑 Unpin All: Remove "always on top" from all pinned windows
-
 🔄 Refresh: Update the window lists
-
 * Double-Click: Toggle pin status on any window in either list
 
 
